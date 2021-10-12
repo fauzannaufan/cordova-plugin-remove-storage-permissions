@@ -1,0 +1,34 @@
+{
+    "name": "cordova-plugin-remove-storage-permissions",
+    "version": "1.0.0",
+    "description": "An Android Cordova plugin that allows users to display simple Toast messages at the bottom of the screen.",
+    "cordova": {
+        "id": "cordova-plugin-remove-storage-permissions",
+        "platforms": [
+            "android"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fauzannaufan/cordova-plugin-remove-storage-permissions.git"
+    },
+    "keywords": [
+        "Remove",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "ecosystem:cordova",
+        "cordova-android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ],
+    "author": "Fauzan Naufan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fauzannaufan/cordova-plugin-remove-storage-permissions/issues"
+    },
+    "homepage": "https://github.com/fauzannaufan/cordova-plugin-remove-storage-permissions/"
+}
