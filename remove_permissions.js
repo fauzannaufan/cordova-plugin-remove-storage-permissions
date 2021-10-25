@@ -1,4 +1,4 @@
-var permissionsToRemove = ["READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"];
+var permissionsToRemove = ["WRITE_EXTERNAL_STORAGE"];
 
 var fs = require('fs');
 var path = require('path');
